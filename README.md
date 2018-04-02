@@ -1,4 +1,4 @@
-# Node-Chat(https://www.google.com)
+[# Node-Chat](https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
 
 ## jQuery and Mustache.js in the front, Express on the back.
 
