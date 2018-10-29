@@ -6,4 +6,5 @@ Chat room application.
 2. Express back end with Socket.io
 
 [Link to app](https://node-chatt.herokuapp.com/)
+
 [Link to course](https://www.udemy.com/node-with-react-fullstack-web-development/learn/v4/content)
