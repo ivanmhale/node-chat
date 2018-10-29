@@ -1,7 +1,8 @@
 # Node-Chat
 
-## jQuery and Mustache.js in the front, Express on the back.
+Chat room application.
 
-### This application is a chatroom which uses Socket.io on both the front and back ends to emit and respond to calls to and from the other end, respectively.
+1. jQuery and Mustache.js on the front end
+2. Express back end with Socket.io
 
-[heroku app link](https://frozen-falls-19892.herokuapp.com/)
+[This is a link](https://frozen-falls-19892.herokuapp.com/)
